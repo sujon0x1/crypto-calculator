@@ -1,4 +1,4 @@
-# 💹 Crypto Profit Calculator
+# Crypto Profit Calculator script
 
 Welcome to the **Crypto Profit Calculator** – a simple, effective tool for calculating cryptocurrency profits! Whether you’re new to crypto or an experienced investor, this calculator helps you predict potential earnings by comparing current prices with future price predictions.
 

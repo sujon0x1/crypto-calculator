@@ -8,7 +8,7 @@ This open-source project is perfect for personal finance tracking or as a school
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0x1.github.io/crypto-calculator/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0xff.github.io/crypto-calculator/)
 
 2. **Enter Investment Details**:
    - Input the **current price** of your cryptocurrency.
